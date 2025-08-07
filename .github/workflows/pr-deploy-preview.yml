@@ -1,7 +1,7 @@
 name: Build and Deploy Eleventy site
 
 permissions:
-  contents: read
+  contents: write
 
 on:
   push:
